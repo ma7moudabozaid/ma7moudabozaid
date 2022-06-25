@@ -1,4 +1,4 @@
-<h1> Hello there 👋, I'm Mahmoud Abozaid (Front End developer - Angular 13) ♥
+<h1> Hello there 👋, I'm Mahmoud Abozaid </br> (Front End developer - Angular 13) ♥
  </h1>
 
 <!--
