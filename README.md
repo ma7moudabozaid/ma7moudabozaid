@@ -1,6 +1,6 @@
 <h1> Hello there 👋, I'm Mahmoud Abozaid </h1>
-<h2> Senior Front End developer ♥ <h2> 
-<h3> Angular 14 - Ionic 5 - NGRX - PWA - SSR -RXJS - unit test</h3>
+<h2> ♥ Senior Front End developer<h2>
+<h3> Angular 14 - Ionic 5 - NGRX - PWA - SSR -RXJS - unit test </h3>
 <h3> Html Html5 - Css css3 - SCSS - JavaScript - Typescript </h3>
 <h3> Bootstrap 5 - Tailwind css - Angular Material - ng-bootstrap </h3>
   
