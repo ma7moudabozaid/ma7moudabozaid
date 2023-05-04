@@ -1,6 +1,7 @@
 <h3> Hello there 👋, I'm Mahmoud Abozaid </h3>
-<h3> Senior Front-End Developer - Angular 14 </h3>
-<h4> Angular 14  - NGRX - PWA - SSR - RXJS - Unit Test(Jasmin,Karma) </h4>
+<h3> Senior UI Developer - Bootstrap 5 - TailwindCSS </h3>
+<h3> Senior Front-End Developer - Angular 15 </h3>
+<h4> Angular 15 - NGRX - PWA - SSR - RXJS - Unit Test(Jasmin,Karma) </h4>
 <h4> HTML HTML5 - CSS CSS3 - SCSS - JavaScript - Typescript - Jquery </h4>
 <h4> Bootstrap 5 - ng-bootstrap - TailwindCSS - Angular Material - PrimeNG  </h4>
 <h4> Convert PSD, XD, and FIGMA To HTML, CSS, SCSS, Bootstrap and Angular </h4>
